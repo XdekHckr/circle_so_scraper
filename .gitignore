@@ -1,0 +1,44 @@
+# Session and authentication data (CRITICAL - never commit these!)
+playwright_state.json
+cookies.txt
+
+# Local configuration and state tracking
+config.json
+progress_state.json
+
+# Console logs, status reports, and error dumps
+zrzut_konsoli_*.txt
+console_dump_*.txt
+Status_pobierania_*.md
+Download_status_*.md
+blad_niepobrane_*.json
+failed_items_*.json
+DEBUG_DUMP_*.html
+_temp_*
+
+# Downloaded media and course files
+*.mkv
+*.mp4
+*.webm
+*.m4a
+*.vtt
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.zip
+*.rar
+*.7z
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

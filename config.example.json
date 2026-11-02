@@ -1,0 +1,31 @@
+{
+    "language": "en",
+    "download_attachments": true,
+    "download_canva_presentations": true,
+    "save_canva_as_pdf": true,
+    "save_canva_slides_png": true,
+    "save_comments_md": true,
+    "save_comments_json": true,
+    "verify_existing_files": false,
+    "create_media_dump": true,
+    "create_link_status": true,
+    "preserve_sidebar_section_structure": true,
+    "group_into_modules": true,
+    "headless": false,
+    "max_concurrent_downloads": 2,
+    "ignored_titles": [
+        "Example ignored lesson"
+    ],
+    "download_external_videos": false,
+    "download_embedded_videos_posts": true,
+    "download_embedded_videos_comments": true,
+    "download_linked_videos_posts": false,
+    "download_linked_videos_comments": false,
+    "max_post_name_length": 50,
+    "max_category_name_length": 120,
+    "backward_compatible_names": true,
+    "fallback_username": "Me",
+    "download_lesson_thumbnails": false,
+    "keep_state_on_completion": true,
+    "restore_state_from_local_folders": true
+}
